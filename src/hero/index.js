@@ -1,5 +1,13 @@
 import React from "react";
+import WebFont from 'webfontloader';
+
 import "./index.css";
+
+WebFont.load({
+  google: {
+    families: ['Montserrat:700', 'sans-serif']
+  }
+});
 
 const component = props => {
   return (
@@ -20,7 +28,7 @@ const component = props => {
               href="mailto:dekablade01@gmail.com"
               className="button button-ghost"
             >
-              Yes, I\'m Available For Hire
+              Yes, I'm Available For Hire
             </a>
           </div>
           <div className="learn-more">
