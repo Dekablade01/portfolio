@@ -1,15 +1,14 @@
-import React, { Component } from "react";
-import Hero from "./hero";
-import "./App.css";
+import React from "react";
 
-class App extends Component {
+import Portfolio from "./components/portfolio/Portfolio"
+import "./App.css";
+import "./css/font.css"
+
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+class App extends React.Component {
   render() {
-    return (
-      <Hero
-        firstLine={"Hi, I'm Issarapong Poesua."}
-        secondLine={"I'm iOS Developer."}
-      />
-    );
+    return <Portfolio />
   }
 }
 
