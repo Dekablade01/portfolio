@@ -1,0 +1,148 @@
+{
+    "profile": {
+        "name": "Issarapong Poesua",
+        "position": "iOS Developer",
+        "description": "Experienced iOS Application Development in Swift and Objective-C. DevOps with JenkinsCI and Fastlane. Strong engineering professional with a Bachelor of Engineering (B.E.) focused in Computer Engineering from King Mongkut's Institute of Technology Ladkrabang Thailand.",
+        "email": "dekablade01@gmail.com",
+        "phone": "+66 90 430 4050",
+        "website": "issarapong.com",
+        "avatar": "https://i.imgur.com/LjIJqNA.jpg"
+    },
+    "experience": {
+        "companies": [{
+                "name": "Nimbl3 Co. Ltd.",
+                "date": {
+                    "start": "1505408400000",
+                    "end": null
+                },
+                "link": {
+                    "website": "https://nimbl3.com",
+                    "linkedin": "https://www.linkedin.com/company/nimbl3"
+                },
+                "responsibilities": [{
+                        "name": "Undisclosed projects",
+                        "external": {
+                            "button_title": "Visit on GitHub",
+                            "project_url": "https://github.com/nimbl3"
+                        },
+                        "description": "this application lets users able to participate purchased treatments and activities on mobile.",
+                        "image_url": null,
+                        "details": [
+                            "Develops iOS application with MVVM, Coordinator, Functional, Delegate, Observable design pattern.",
+                            "Set up and maintains CI/CD with Jenkins and fastlane, deploys to Fabric.",
+                            "Designed Jenkins pipeline and Fastlane’s lanes to be reusable for branches and PR events on Git repository.",
+                            "Unit tests, UI Tests with Quick and Nimble ( Inspired from RSpec ) above XCTests and XCUITests.",
+                            "UITests with Appium ( RSpec ).",
+                            "Related Apple’s Frameworks: Foundation, UIKit, AVFoundation, AVKit, LocalAuthentication."
+                        ]
+                    },
+                    {
+                        "name": "Nimbl3 iOS Template",
+                        "external": {
+                            "button_title": "Visit on App Store",
+                            "project_url": "https://github.com/nimbl3/ios-templates"
+                        },
+                        "description": "Application lets users able to participate purchased treatments and activities on mobile",
+                        "image_url": null,
+                        "details": [
+                            "Maintains template following current technology and company’s business flow for CI/CD."
+                        ]
+                    }
+                ],
+                "position": "iOS Developer"
+            }, {
+                "name": "Nextzy Co. Ltd.",
+                "date": {
+                    "start": "1480525200000",
+                    "end": "1483030800000"
+                },
+                "link": {
+                    "website": "https://nextzy.me",
+                    "linkedin": "https://www.linkedin.com/company/nextzy-technologies/"
+                },
+                "responsibilities": [{
+                    "name": "TIP Insure",
+                    "external": {
+                        "button_title": "Visit on App Store",
+                        "project_url": "https://itunes.apple.com/th/app/tip-insure/id1182286345?l=th&mt=8"
+                    },
+                    "description": "this application lets users buy insurance, check insurance and related insurance’s service like garages and hospitals",
+                    "image_url": null,
+                    "details": [
+                        "Developed iOS application with storyboard and MVVM design pattern."
+                    ]
+                }],
+                "position": "iOS Developer (Freelancer)"
+            },
+            {
+                "name": "ShopSpot Co. Ltd.",
+                "date": {
+                    "start": "1464714000000",
+                    "end": "1480525200000"
+                },
+                "link": {
+                    "website": "https://shopspot.co.th",
+                    "linkedin": "https://www.linkedin.com/company/shopspot-pte-ltd-/"
+                },
+                "responsibilities": [{
+                    "name": "ShopSpot",
+                    "external": {
+                        "button_title": "Visit on App Store",
+                        "project_url": "https://itunes.apple.com/th/app/shopspot/id516201295?mt=8"
+                    },
+                    "description": "this lets users buy, sell stuffs and read articles on ShopSpot’s online marketplace.",
+                    "image_url": null,
+                    "details": [
+                        "As an intern iOS developer, I was assigned to learn how to start project from scratch and architecting project."
+                    ]
+                }],
+                "position": "iOS Developer (Intern)"
+            }
+        ]
+    },
+    "education": [{
+        "name": "King Mongkut's Instute of Technology Ladkrabang",
+        "degree": "Bachelor of Engineering",
+        "display_name": "KMITL",
+        "website": "https://kmitl.ac.th",
+        "date": {
+            "start": "1372611600000",
+            "end": "1498842000000"
+        },
+        "details": [
+            "Information Engineering (Computer Engineering)"
+        ]
+    }],
+    "skills": {
+        "ios": [
+            "Xcode", "Swift", "Objective-C", "XCTests", "XCUITests", "Appium", "Fastlane", "CodeSigning"
+        ],
+        "ci_cd": [
+            "Jenkins", "BitbucketCI", "TravisCI"
+        ],
+        "web": [
+            "NodeJS", "ExpressJS", "ReactJS", "MongoDB"
+        ]
+    },
+    "other_perks": [{
+            "image_url": null,
+            "title": "iOS ConfSG 2016",
+            "subtitle": "Visitor Nanyang Polytechnic, Singapore",
+            "detail": "iOS Conf SG aims to bring the iOS developers in this region and the world together. The world’s top iOS developers, bloggers, book authors and trainers are coming together for 2 days. The participants can meet like-minded iOS developers, have fun, learn from one another and find opportunities for collaboration.",
+            "external": {
+                "button_title": "see more",
+                "link": "https://iosconf.sg"
+            }
+        }, {
+            "image_url": null,
+            "title": "Intro to Startup By KITS",
+            "subtitle": "Head of Organizer KMITL Innovation & Technology Startup, Thailand.",
+            "detail": "KITS Stands for KMITL Innovation & Technology Startup, community of KMITL's students that interesting in developing ideas, connections and abilities to launch the startup business.",
+            "external": {
+                "button_title": "see more",
+                "link": "https://www.facebook.com/KITS.Startup/posts/1675929329388871"
+            }
+        }
+
+    ]
+}
