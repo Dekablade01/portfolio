@@ -23,6 +23,24 @@
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  font-size: 1.4rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  color: #93a4aa;
+}
+
+@media screen and (min-width: 550px) {
+  body {
+    font-size: 1.4rem;
+  }
 }
